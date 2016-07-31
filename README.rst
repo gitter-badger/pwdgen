@@ -12,3 +12,8 @@ previous session.
 
 PWDGEN 2016.0 CRYPTO
 AL3X V3GAS 2016 (C)
+
+
+.. image:: https://badges.gitter.im/al3xv3gas/pwdgen.svg
+   :alt: Join the chat at https://gitter.im/al3xv3gas/pwdgen
+   :target: https://gitter.im/al3xv3gas/pwdgen?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
